@@ -6,7 +6,7 @@
 		"author": "CorProDoc",
 		"params": [
 			{
-				"name": "url",
+				"name": "urls",
 				"displayName": "URLs",
 				"type": "string"
 			}
