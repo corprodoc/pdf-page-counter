@@ -10,7 +10,6 @@
 				"displayName": "URLs",
 				"type": "string"
 			}
-			}
 		],
 		"result": {
 			"type": "string"
