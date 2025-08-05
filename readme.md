@@ -1,5 +1,5 @@
 # CorProDoc
-### HTML to PDF Glide Plugin
+### PDF Page Counter Glide Plugin
 
 This plugin allows you to preview and save HTML as PDFs. 
 
